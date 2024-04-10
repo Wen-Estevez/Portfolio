@@ -376,7 +376,8 @@ nav .navlinks li a:hover {
 }
 .card:hover .info{
     opacity: 1;
-    transform: translateY(-60%);
+    transform: translateY(-80%);
+    font-size: 14px;
 }
 .start-project{
   margin-top: 5rem;
